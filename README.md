@@ -251,7 +251,6 @@
 [Flutter **3.13**. Что нового?](https://habr.com/ru/companies/surfstudio/articles/756472/)  
 [Flutter **3.16**: обзор обновления фреймворка с комментариями разработчиков Surf](https://habr.com/ru/companies/surfstudio/articles/775714/)  
 [Flutter **3.16**: что нового](https://habr.com/ru/companies/friflex/articles/774594/)  
-[Flutter **3.3**: что нового](https://habr.com/ru/companies/surfstudio/articles/688194/)  
 
 ## Dart
 [Анонс Dart **2.0**: Оптимизированный для клиентской разработки](https://habr.com/ru/company/wrike/blog/349790/)  
